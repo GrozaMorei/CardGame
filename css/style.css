@@ -231,6 +231,9 @@ body {
 	.menu {
 		gap: 40px;
 	}
+	.menu-time {
+		font-size: 40px;
+	}
 	.button__list {
 		gap: 20px;
 		grid-template-columns: none;
